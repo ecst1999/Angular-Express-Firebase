@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestore-grafica-2430c": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-2430c"
+        ]
+      }
+    }
+  }
+}
